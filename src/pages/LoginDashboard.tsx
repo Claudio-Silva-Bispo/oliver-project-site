@@ -48,7 +48,7 @@ export default function LoginDashboard() {
           <h2 className="mt-6 text-2xl font-bold text-gray-900">Acesso ao Painel de Solicitações</h2>
         </div>
 
-        <form className="space-y-6" onSubmit={handleSubmit}>
+        <form className="space-y-6" onSubmit={handleSubmit} data-netlify="false">
           <div>
             <label htmlFor="email" className="block text-sm font-medium text-gray-700">Email</label>
             <div className="mt-2">
