@@ -170,7 +170,7 @@ export default function About(){
                                         <div className="ml-4">
 
                                             <h4 className="text-lg font-manrope leading-6 ">We serve the cities listed below and surrounding areas.</h4>
-                                            <p className="mt-2 font-manrope">Bellevue, Clyde Hill, Kirkland, Medina, Newcastle, Renton, Yarrow Point, Bothell, Mercer Island, Redmond, Snohomish, Covington, Lywood</p>
+                                            <p className="mt-2 font-manrope">Bellevue, Clyde Hill, Kirkland, Medina, Newcastle, Renton, Yarrow Point, Bothell, Mercer Island, Redmond, Snohomish, Covington, Lynnwood</p>
 
                                         </div>
 
