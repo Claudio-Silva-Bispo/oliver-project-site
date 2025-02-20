@@ -25,7 +25,7 @@ export default function AboutUs(){
                             
                             <span className="text-xs tracking-wider uppercase mb-5 md:mb-0">Solutions</span>
                             
-                            <span className="text-xl font-bold md:text-2xl">The need for household cleaning solutions to create a healthier and more welcoming environment.</span>
+                            <span className="text-xl font-bold md:text-2xl">Customized Solutions</span>
                             
                             <span className="mt-4 font-manrope">We need household cleaning solutions to create a healthier and more welcoming environment. Our American company is dedicated to providing exceptional cleaning services, ensuring that your home is always clean and organized. Through a rigorous standard of quality, we promote peace of mind and well-being for our customers, transforming their homes into perfect retreats to relax and enjoy their leisure time.</span>
                         </div>

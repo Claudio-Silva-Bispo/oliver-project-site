@@ -34,7 +34,7 @@ export default function About(){
 
                                     <div className="ml-4">
                                         <h4 className="text-lg font-manrope leading-6 ">Delivering spotless, sanitized, and organized workspaces for people and businesses.</h4>
-                                        <p className="mt-2 font-manrope">Oliver Business Cleaning Services was founded in 2005 with a mission to provide top-notch residential and commercial cleaning services to businesses all over the city. Our team is dedicated to delivering spotless, sanitized, and organized workspaces for our clients. We understand the importance of a clean environment in enhancing productivity and leaving a great impression on clients and visitors.</p>
+                                        <p className="mt-2 font-manrope">Founded in 2005, Oliver Cleaning Services is committed to providing high-quality cleaning solutions for both homes and businesses. Our team is dedicated to delivering spotless, hygienic, and organized spaces, understanding that a clean environment enhances productivity and leaves a great impression on clients and visitors.</p>
                                     </div>
 
                                 </div>
@@ -131,8 +131,9 @@ export default function About(){
                                         </div>
 
                                         <div className="ml-4">
-                                            <h4 className="text-lg font-manrope leading-6 ">Service Days and Hours</h4>
-                                            <p className="mt-2 font-manrope">Monday to Friday from 8:00 AM to 6:00 PM, Saturday from 8:00 AM to 5:30 PM, closed on Sunday.</p>
+                                            <h4 className="text-lg font-manrope leading-6 ">Service Hours</h4>
+                                            <p className="mt-2 font-manrope"> Monday–Friday: 8 AM – 6 PM | Saturday: 8 AM – 5:30 PM | Closed on Sundays.
+                                            </p>
                                         </div>
 
                                     </div>
@@ -150,8 +151,9 @@ export default function About(){
 
                                         <div className="ml-4">
 
-                                            <h4 className="text-lg font-manrope leading-6">Flexible Work Formats to Suit Your Needs</h4>
-                                            <p className="mt-2 font-manrope">Work formats: daily, weekly, biweekly, monthly, or occasional.</p>
+                                            <h4 className="text-lg font-manrope leading-6">Flexible Cleaning Plans</h4>
+                                            <p className="mt-2 font-manrope">We offer daily, weekly, biweekly, monthly, and one-time cleaning services to fit your needs and budget.
+                                            </p>
 
                                         </div>
                                     </div>
